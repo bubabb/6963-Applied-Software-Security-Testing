@@ -1,0 +1,24 @@
+[submodule "lab1/JsonRepairSharp"]
+	path = lab1/JsonRepairSharp
+	url = https://github.com/Corona-Studio/JsonRepairSharp.git
+[submodule "lab1/json_repair"]
+	path = lab1/json_repair
+	url = https://github.com/mangiucugna/json_repair.git
+[submodule "lab1/read_input"]
+	path = lab1/read_input
+	url = https://github.com/eopb/read_input.git
+[submodule "lab1/lookup-cli"]
+	path = lab1/lookup-cli
+	url = https://github.com/Reallier/lookup-cli.git
+[submodule "lab1/u-root"]
+	path = lab1/u-root
+	url = https://github.com/u-root/u-root.git
+[submodule "lab1/ViewMate"]
+	path = lab1/ViewMate
+	url = https://github.com/chayotic/ViewMate.git
+[submodule "lab1/ProxyChecker"]
+	path = lab1/ProxyChecker
+	url = https://github.com/oldnum/ProxyChecker.git
+[submodule "lab1/Input-Validation-and-Manipulation"]
+	path = lab1/Input-Validation-and-Manipulation
+	url = https://github.com/YangChiayin/Input-Validation-and-Manipulation.git
