@@ -22,3 +22,24 @@
 [submodule "lab1/Input-Validation-and-Manipulation"]
 	path = lab1/Input-Validation-and-Manipulation
 	url = https://github.com/YangChiayin/Input-Validation-and-Manipulation.git
+[submodule "Lab3/Lab3/Awesome-Libfuzzer-Harness"]
+	path = Lab3/Lab3/Awesome-Libfuzzer-Harness
+	url = https://github.com/Microsvuln/Awesome-Libfuzzer-Harness.git
+[submodule "Lab3/Lab3/binutils-libfuzzer"]
+	path = Lab3/Lab3/binutils-libfuzzer
+	url = https://github.com/ammaraskar/binutils-libfuzzer.git
+[submodule "Lab3/Lab3/fuzz-craft"]
+	path = Lab3/Lab3/fuzz-craft
+	url = https://github.com/PrVrSs/fuzz-craft.git
+[submodule "Lab3/Lab3/libfuzzer-autotools"]
+	path = Lab3/Lab3/libfuzzer-autotools
+	url = https://github.com/arizvisa/libfuzzer-autotools.git
+[submodule "Lab3/Lab3/libfuzzer-gynveal-example"]
+	path = Lab3/Lab3/libfuzzer-gynveal-example
+	url = https://github.com/hoeg/libfuzzer-gynveal-example.git
+[submodule "Lab3/Lab3/qemu_driver"]
+	path = Lab3/Lab3/qemu_driver
+	url = https://github.com/vanhauser-thc/qemu_driver.git
+[submodule "Lab3/Lab3/simple-libfuzzer"]
+	path = Lab3/Lab3/simple-libfuzzer
+	url = https://github.com/theopolis/simple-libfuzzer.git
